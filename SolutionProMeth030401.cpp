@@ -6,7 +6,7 @@ int x = 10;
 
 do{
     cout<<x<<"\n";
-        -- x;
+        x--;
     
 }while (x >= 1);
     
